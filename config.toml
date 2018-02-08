@@ -6,11 +6,11 @@
 baseurl = "https://kevinyu0506.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Chun-Ting (Kevin) Yu"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 Chun-Ting Yu"
 
 theme = "academic"
 enableEmoji = true
@@ -50,12 +50,12 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Chun-Ting (Kevin) Yu"
+  role = "Undergraduate Student of Management Information Systems"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "National Chengchi University", url = "http://www.nccu.edu.tw/" }, { name = "The Hong Kong University of Science and Technology", url = "http://www.ust.hk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
