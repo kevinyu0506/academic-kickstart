@@ -244,8 +244,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Competitions"
+  url = "#talks"
   weight = 2
 
 [[menu.main]]
@@ -267,6 +267,11 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 6
+  
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
