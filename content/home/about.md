@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Android Application Development",
     "Data Structure & Algorithm",
-    "Business Model Innovation"
+    "Business Model Innovation",
+    "Scuba Diving",
+    "Film Photography"
   ]
 
 # List your qualifications (such as academic degrees).
