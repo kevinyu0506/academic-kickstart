@@ -263,10 +263,10 @@ defaultContentLanguageInSubdir = false
   url = "#talks"
   weight = 3
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 4
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 4
 
 [[menu.main]]
   name = "Interests"
@@ -278,10 +278,10 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 6
   
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 7
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 7
 
 # Taxonomies.
 [taxonomies]

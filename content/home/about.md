@@ -29,7 +29,7 @@ weight = 5
  
 +++
 
-# Biography
+# About
 
 I am an undergraduate student majoring Management Information Systems at <a href="http://www.nccu.edu.tw/?locale=en">NCCU</a>, currently focused on Android Application Developing using Java. I worked with <a href="http://www.commerce.nccu.edu.tw/en/faculty/faculty_directory_bydept/%E5%B0%9A-%E5%AD%9D%E7%B4%94-52949454" target="_blank">Prof. SHIAW-CHUN SHANG</a> and <a href="https://www.linkedin.com/in/alex-yang-3045392a/">Mr. ALEX YANG</a> on Business Model Innovation in improving Taiwan's <a href="https://earthquake.usgs.gov/research/earlywarning/">Earthquake Early Warning (E.E.W.) system</a> and developed an Android Application prototype "<a href="https://github.com/kevinyu0506/EarthquakeApp">H.E.R.O. - Help Everyone Run Out</a>". I have also worked with <a href="http://rmi.nccu.edu.tw/en/Members1/%E9%BB%83-%E6%B3%93%E6%99%BA-93151481">Prof. HONG-CHIH HUANG</a> on building "<a href="http://140.119.86.174/quant168/newretirementpay.php">Quant168 - A personal Financial Investment and Management Website</a>".
 
