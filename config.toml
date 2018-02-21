@@ -229,6 +229,16 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//www.linkedin.com/in/chuntingyu"
 
+  [[params.social]]
+    icon = "facebook-square"
+    icon_pack = "fa"
+    link = "//www.facebook.com/kevinyu0506"
+
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "//www.instagram.com/kev35mm/"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

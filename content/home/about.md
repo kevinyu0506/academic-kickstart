@@ -11,10 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Android Application Development",
-    "Data Structure & Algorithm",
     "Business Model Innovation",
-    "Scuba Diving",
-    "Film Photography"
+    "Data Structure & Algorithm",
+    "Cool tech stuff",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,6 +31,6 @@ weight = 5
 
 # Biography
 
-I am an undergraduate student majoring Management Information Systems at <a href="http://www.nccu.edu.tw/?locale=en">NCCU</a>, currently focused on Android Application Developing using Java. I worked with <a href="http://www.commerce.nccu.edu.tw/en/faculty/faculty_directory_bydept/%E5%B0%9A-%E5%AD%9D%E7%B4%94-52949454" target="_blank">Prof. SHIAW-CHUN SHANG</a> and Mr. ALEX YANG on Business Model Innovation at improving Taiwan's <a href="https://earthquake.usgs.gov/research/earlywarning/">Earthquake Early Warning system</a>, and developed an Android Application prototype "<a href="https://github.com/kevinyu0506/EarthquakeApp">Earthquake Early-Warning Application - H.E.R.O.</a>" which won the 1st Place in NCCU MIS 2014 Academic Year Graduation Project. I have also worked with <a href="http://rmi.nccu.edu.tw/en/Members1/%E9%BB%83-%E6%B3%93%E6%99%BA-93151481">Prof. HONG-CHIH HUANG</a> on building a "<a href="http://140.119.86.174/quant168/newretirementpay.php">Financial Investment and Management Website - Quant168</a>" using languages such as PHP, MySQL, JavaScript, HTML.
+I am an undergraduate student majoring Management Information Systems at <a href="http://www.nccu.edu.tw/?locale=en">NCCU</a>, currently focused on Android Application Developing using Java. I worked with <a href="http://www.commerce.nccu.edu.tw/en/faculty/faculty_directory_bydept/%E5%B0%9A-%E5%AD%9D%E7%B4%94-52949454" target="_blank">Prof. SHIAW-CHUN SHANG</a> and <a href="https://www.linkedin.com/in/alex-yang-3045392a/">Mr. ALEX YANG</a> on Business Model Innovation at improving Taiwan's <a href="https://earthquake.usgs.gov/research/earlywarning/">Earthquake Early Warning (E.E.W.) system</a>, and developed an Android Application prototype "<a href="https://github.com/kevinyu0506/EarthquakeApp">H.E.R.O. - Help Everyone Run Out</a>". I have also worked with <a href="http://rmi.nccu.edu.tw/en/Members1/%E9%BB%83-%E6%B3%93%E6%99%BA-93151481">Prof. HONG-CHIH HUANG</a> on building a "<a href="http://140.119.86.174/quant168/newretirementpay.php">Financial Investment and Management Website - Quant168</a>" using languages such as PHP, MySQL, JavaScript, HTML.
 
-I am expected to receive my Bachelor’s Degree from NCCU at 2018. Over the courses of my Undergraduate study I took an intership at a startup company called <a href="http://www.evertiphi.com/">Evertiphi Inc.</a>, founded by Mr. ALEX YANG based on the prototype we developed, where I worked as an Android Application Developer Intern and kept on completing the fully functional version of H.E.R.O., and we finally launched our APP on <a href="https://play.google.com/store/apps/details?id=com.evertiphi.herov2">Google Play</a> at the end of 2017.
+I am expected to receive my Bachelor’s Degree from NCCU at 2018. Over the courses of my undergraduate study I took an internship at a startup company called <a href="http://www.evertiphi.com/">Evertiphi Inc.</a>, founded by <a href="https://www.linkedin.com/in/alex-yang-3045392a/">Mr. ALEX YANG</a> based on the prototype we had developed together, where I worked as an Android Application Developer Intern and kept on completing the fully functional version of H.E.R.O., and we finally launched our APP on <a href="https://play.google.com/store/apps/details?id=com.evertiphi.herov2">Google Play</a> at the end of 2017.
