@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "By combing the concept of IoT and Crowdsourcing, we developed a sensor-based mobile Application. We chose Google Firebase as our backend service platform."
+summary = "By combing the concept of IoT and Crowdsourcing, we developed a sensor-based mobile Application which used Google Firebase as our backend service platform."
 
 # Optional image to display on homepage.
 image_preview = "HERO1.png"
