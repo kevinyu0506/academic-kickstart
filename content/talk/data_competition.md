@@ -9,8 +9,10 @@ time_start = 2017-05-13T09:00:00+08:00
 time_end = 2017-05-13T17:00:00+08:00
 
 # Abstract and optional shortened version.
-abstract = "使用統計軟體(R、SPSS、Excel)將所選車站(忠孝復興、淡水、板橋、西門)每日每小時的進出站人次加總起來，並分析不同時段的人潮量，將所產生出的運輸量分為 四個等級，不同等級的廣告收取相對應的價格，使廣告選擇更靈活。"
-abstract_short = "研究及分析台北捷運站內廣告出租及投放時段選擇，預期希望提升廣告商利潤並增加廠商投放捷運站內廣告的選擇"
+# abstract = "使用統計軟體(R、SPSS、Excel)將所選車站(忠孝復興、淡水、板橋、西門)每日每小時的進出站人次加總起來，並分析不同時段的人潮量，將所產生出的運輸量分為 四個等級，不同等級的廣告收取相對應的價格，使廣告選擇更靈活。"
+abstract = "By using statistic tools such as R, SPSS, Excel, we analyzed Taipei MRT’s open data about the number of  passenger every hour in particular stations, and tried to come up with a plan to enhance the advertising reach in those stations."
+# abstract_short = "研究及分析台北捷運站內廣告出租及投放時段選擇，預期希望提升廣告商利潤並增加廠商投放捷運站內廣告的選擇"
+abstract_short = "We analyzed Taipei MRT’s open data about the number of  passenger every hour in particular stations, and tried to come up with a plan to enhance the advertising reach in those stations."
 
 image_preview = "data_competition.jpg"
 
