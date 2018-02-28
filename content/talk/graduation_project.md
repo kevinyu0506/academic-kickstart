@@ -9,8 +9,10 @@ time_start = 2017-06-05T09:00:00+08:00
 time_end = 2017-06-05T17:00:00+08:00
 
 # Abstract and optional shortened version.
-abstract = "HERO是一個以群眾外包為基礎結合物聯網，透過人手一台的智慧型手機內建的三軸感應器（G-sensor）、GPS作為地震感測器的災變防範APP。以智慧型手機取代傳統地震感測站，使成本大大的降低，也因為手機同時兼具地震測站（發送端）和預警（接收端）功能，預警速度更快，更具有實用價值。"
-abstract_short = "結合物聯網與群眾共創的概念，藉由大眾手機內建的三軸感應器及GPS來佈建廣及全台的地震偵測網"
+# abstract = "HERO是一個以群眾外包為基礎結合物聯網，透過人手一台的智慧型手機內建的三軸感應器（G-sensor）、GPS作為地震感測器的災變防範APP。以智慧型手機取代傳統地震感測站，使成本大大的降低，也因為手機同時兼具地震測站（發送端）和預警（接收端）功能，預警速度更快，更具有實用價值。"
+abstract = "By combing the concept of IoT and Crowdsourcing, we came up with the idea of developing an Earthquake Early Warning application “H.E.R.O.”. Our goal is to inform our users several seconds beforehand when the earthquake is going to reach that location."
+# abstract_short = "結合物聯網與群眾共創的概念，藉由大眾手機內建的三軸感應器及GPS來佈建廣及全台的地震偵測網"
+abstract_short = "By combing the concept of IoT and Crowdsourcing, we came up with the idea of developing an Earthquake Early Warning application “H.E.R.O.”."
 
 image_preview = "graduation_project2.jpg"
 
