@@ -23,7 +23,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "Exchange Student in School of Business"
+  course = "Exchange Student in Business School"
   institution = "The Hong Kong University of Science and Technology"
   year = 2018
  
