@@ -74,13 +74,13 @@ caption = "2016 大社盃練習賽 - 3rd Place"
 
 ## Photography
 
-Following are part of my photography demo, can checkout more <a href="http://www.instagram.com/kev35mm/">HERE</a>.
+Following are part of my photography works, can checkout more <a href="http://www.instagram.com/kev35mm/">HERE</a>.
 
 {{< gallery album="1" >}}
 
 ## Scuba Diving
 
-Got my PADI level 2 Open Water Diver Cert at the end of 2017, and I'm planning to get the Advance Open Water Diver Cert in this Summer.
+Got my PADI level 2 Open Water Diver Cert at the end of 2017, and I'm planning to get the Advance Open Water Diver Cert this Summer.
 
 {{< gallery album="2" >}}
 
