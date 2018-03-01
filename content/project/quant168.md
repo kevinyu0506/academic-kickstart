@@ -1,11 +1,11 @@
 +++
-title = "A personal finance website: Quant168"
-date = 2018-03-01T15:42:43+08:00
+title = "Personal finance website: Quant168"
+date = 2018-01-25T15:42:43+08:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["All", "Web Development"]
 
 # Project summary to display on homepage.
 summary = "The website contains several calculating tools that allow users to make some financial decision such as managing their assets after retirement."
