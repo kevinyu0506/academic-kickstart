@@ -1,5 +1,5 @@
 +++
-title = "Earthquake Early Warning application: New version with a new algorithm and user interface"
+title = "Earthquake Early Warning application: A beta version with a new algorithm and user interface"
 date = 2018-03-01T00:47:39+08:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "A new epicenter converging algorithm was adapted to this new version and along with a brand new user interface."
+summary = "A newly-tuned epicenter converging algorithm was adapted to this version and also with a whole new user interface."
 
 # Optional image to display on homepage.
 image_preview = "HERO2.png"
