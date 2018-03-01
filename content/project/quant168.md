@@ -1,6 +1,6 @@
 +++
-title = "Earthquake Early Warning application: Beta version with a new algorithm and user interface"
-date = 2018-03-01T00:47:39+08:00
+title = "A personal finance website: Quant168"
+date = 2018-03-01T15:42:43+08:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "A newly-tuned epicenter converging algorithm was adapted to this version and also with the brand new user interface."
+summary = "The website contains several calculating tools that allow users to make some financial decision such as managing their assets after retirement."
 
 # Optional image to display on homepage.
-image_preview = "HERO2.png"
+image_preview = "quant168.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/kevinyu0506/HERO-Android.v2"
+external_link = "https://github.com/SuYenTing/quant168"
 
 # Does the project detail page use math formatting?
 math = false
