@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["All", "Web Development"]
+tags = ["web-development"]
 
 # Project summary to display on homepage.
 summary = "The website contains several calculating tools that allow users to make some financial decision such as managing their assets after retirement."

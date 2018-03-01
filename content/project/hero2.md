@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["All", "Android Application"]
+tags = ["android-application"]
 
 # Project summary to display on homepage.
 summary = "A newly-tuned epicenter converging algorithm was adapted to this version and also with the brand new user interface."
