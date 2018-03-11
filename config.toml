@@ -215,7 +215,7 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "file-pdf"
+    icon = "pdf"
     icon_pack = "fa"
     link = "//drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
 
