@@ -35,4 +35,6 @@ I am an undergraduate student majoring MIS at <a href="http://www.nccu.edu.tw/?l
 
 I am expected to receive my Bachelor’s Degree from NCCU in 2018. Over the courses of my undergraduate study, I participated in the early-establishment of a startup company <a href="http://www.evertiphi.com/">Evertiphi Inc.</a> with <a href="https://www.linkedin.com/in/alex-yang-3045392a/">Mr.ALEX YANG</a> base on the prototype (H.E.R.O.) we had developed. I worked as an Android Application Developer Intern there and kept on completing the fully functional version of H.E.R.O. As for now, we have just launched the beta version of H.E.R.O. on both <a href="https://play.google.com/store/apps/details?id=com.evertiphi.herov2">Google Play</a> and <a href="https://itunes.apple.com/tw/app/h-e-r-o-earthquake-alert/id1276497257?mt=8">Apple Store</a> at the end of 2017.
 
-{{% staticref "files/cv.pdf" %}}-> Download my CV{{% /staticref %}}
+{{% alert note %}}
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% /alert %}}
