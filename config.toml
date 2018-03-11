@@ -215,8 +215,8 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "pdf"
-    icon_pack = "fa"
+    icon = "file-pdf"
+    icon_pack = "fas"
     link = "//drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
 
   [[params.social]]
@@ -249,19 +249,24 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "About"
+  name = "Biography"
   url = "#about"
   weight = 1
 
 [[menu.main]]
+  name = "CV"
+  url = "https://drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
+  weight = 2
+
+[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Competitions"
   url = "#talks"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
