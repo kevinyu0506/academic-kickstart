@@ -215,14 +215,9 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "file-pdf"
     icon_pack = "fa"
-    link = "mailto:kevinyu05062006@gmail.com"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/kevinyu0506"
+    link = "//drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
 
   [[params.social]]
     icon = "linkedin"
@@ -230,14 +225,19 @@ defaultContentLanguageInSubdir = false
     link = "//www.linkedin.com/in/kevinyu0506"
 
   [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/kevinyu0506"
+
+  [[params.social]]
     icon = "facebook-square"
     icon_pack = "fa"
     link = "//www.facebook.com/kevinyu0506"
 
   [[params.social]]
-    icon = "instagram"
+    icon = "envelope"
     icon_pack = "fa"
-    link = "//www.instagram.com/kev35mm/"
+    link = "mailto:kevinyu05062006@gmail.com"
 
 
 # Navigation Links
