@@ -8,7 +8,7 @@ draft = false
 tags = ["android-application"]
 
 # Project summary to display on homepage.
-summary = "** Languages & Tools: Java, Google Firebase ** By combing the concept of IoT and Crowdsourcing, we developed a sensor-based mobile application which turns the users' phone into an independent seismic sensor."
+summary = "By combing the concept of IoT and Crowdsourcing, we developed a sensor-based mobile application which turns the users' phone into an independent seismic sensor."
 
 # Optional image to display on homepage.
 image_preview = "HERO1.png"

@@ -8,7 +8,7 @@ draft = false
 tags = ["android-application"]
 
 # Project summary to display on homepage.
-summary = "** Languages & Tools: Java, Google Firebase ** A newly-tuned epicenter converging algorithm was adapted to this version and also with the brand new user interface."
+summary = "A newly-tuned epicenter converging algorithm was adapted to this version and also with the brand new user interface."
 
 # Optional image to display on homepage.
 image_preview = "HERO2.png"

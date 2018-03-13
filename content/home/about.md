@@ -14,6 +14,7 @@ weight = 5
     "Deep Learning",
     "Data Structure & Algorithm",
     "Business Model Innovation",
+    "New techs"
   ]
 
 # List your qualifications (such as academic degrees).
