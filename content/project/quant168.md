@@ -8,7 +8,7 @@ draft = false
 tags = ["web-development"]
 
 # Project summary to display on homepage.
-summary = "The website contains several calculating tools that allow users to make some financial decision such as managing their assets after retirement."
+summary = "The website contains several calculating tools that allow users to make financial decisions such as managing their assets after retirement or deciding the best combination of insurance package for their specific purpose."
 
 # Optional image to display on homepage.
 image_preview = "quant168.png"
