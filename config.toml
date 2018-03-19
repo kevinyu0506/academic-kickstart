@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "National Chengchi University", url = "http://www.nccu.edu.tw/" }, { name = "The Hong Kong University of Science and Technology", url = "http://www.ust.hk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "kevinyu05062006@gmail.com"
   address = "Jockey Club Hall 1D01L, HKUST, 3 Tong Yin Lane, Tseung Kwan O, New Territories, Hong Kong"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
