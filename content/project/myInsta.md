@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Others"]
+tags = ["others"]
 
 # Project summary to display on homepage.
 summary = "This application is a client to an unofficial independent Instagram API called instagram4j, allows access to the features that Instagram app provides."

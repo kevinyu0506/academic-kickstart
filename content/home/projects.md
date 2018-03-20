@@ -40,5 +40,9 @@ filter_default = 0
    name = "Android Application"
    tag = ".android-application"
 
+ [[filter]]
+   name = "Others"
+   tag = ".others"
+
 +++
 
