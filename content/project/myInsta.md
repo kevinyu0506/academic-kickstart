@@ -1,5 +1,5 @@
 +++
-title = "A simple command-line version of Instagram"
+title = "A simple command-line application of Instagram"
 date = 2018-03-21T00:17:29+08:00
 draft = false
 
