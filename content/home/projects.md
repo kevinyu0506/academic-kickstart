@@ -41,8 +41,8 @@ filter_default = 0
    tag = ".android-application"
 
  [[filter]]
-   name = "Others"
-   tag = ".others"
+   name = "Other"
+   tag = ".other"
 
 +++
 
