@@ -1,6 +1,6 @@
 +++
 title = "Earthquake Early Warning application: Beta version with a new algorithm and user interface"
-date = 2018-03-01T00:47:39+08:00
+date = 2018-01-20T00:47:39+08:00
 draft = false
 
 # Tags: can be used for filtering projects.

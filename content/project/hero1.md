@@ -1,6 +1,6 @@
 +++
 title = "Earthquake Early Warning application: A sensor-based Android Application"
-date = 2018-02-28T23:12:06+08:00
+date = 2018-01-10T23:12:06+08:00
 draft = false
 
 # Tags: can be used for filtering projects.
