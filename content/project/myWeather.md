@@ -8,7 +8,7 @@ draft = false
 tags = ["android-application"]
 
 # Project summary to display on homepage.
-summary = "This application is a weather forecast app using a service called DarkSky API, and also some modern libraries like Retrofit, EventBus & ButterKnife."
+summary = "This application is a weather forecast app using a service called **DarkSky API**, and also some modern libraries like **Retrofit**, **EventBus** & **ButterKnife**."
 
 # Optional image to display on homepage.
 image_preview = "my_weather.png"

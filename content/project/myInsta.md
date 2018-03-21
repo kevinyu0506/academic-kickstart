@@ -8,7 +8,7 @@ draft = false
 tags = ["other"]
 
 # Project summary to display on homepage.
-summary = "This application is a client to an unofficial independent Instagram API called instagram4j, allows access to the features that Instagram app provides."
+summary = "This application is a client to an unofficial independent Instagram API called **instagram4j API**, allows access to the features that Instagram app provides."
 
 # Optional image to display on homepage.
 image_preview = "my_insta.png"
