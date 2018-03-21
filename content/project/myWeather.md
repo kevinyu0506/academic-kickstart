@@ -1,0 +1,31 @@
++++
+title = "A simple weather forecast application follows the MVP architecture"
+date = 2018-03-21T19:31:39+08:00
+draft = false
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["android-application"]
+
+# Project summary to display on homepage.
+summary = "This application is a weather forecast app using a service called DarkSky API, and also some modern libraries like Retrofit, EventBus & ButterKnife."
+
+# Optional image to display on homepage.
+image_preview = "my_weather.png"
+
+# Optional external URL for project (replaces project detail page).
+external_link = "https://github.com/kevinyu0506/WeatherApp"
+
+# Does the project detail page use math formatting?
+math = false
+
+# Does the project detail page use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
