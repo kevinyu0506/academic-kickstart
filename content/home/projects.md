@@ -32,13 +32,13 @@ filter_default = 0
    name = "All"
    tag = "*"
   
+[[filter]]
+   name = "Android Application"
+   tag = ".android-application"
+  
  [[filter]]
    name = "Web Development"
    tag = ".web-development"
-
- [[filter]]
-   name = "Android Application"
-   tag = ".android-application"
 
  [[filter]]
    name = "Other"
