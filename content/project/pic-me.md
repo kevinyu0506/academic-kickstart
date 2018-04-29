@@ -1,6 +1,6 @@
 +++
-title = "A simple weather forecast application follows the MVP architecture"
-date = 2018-01-05T19:31:39+08:00
+title = "A photo edit application allows user to paint on the picture easily"
+date = 2018-04-29T19:24:05+08:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,13 +8,13 @@ draft = false
 tags = ["android-application"]
 
 # Project summary to display on homepage.
-summary = "This application is a weather forecast app using a service called **DarkSky API**, and also some popular libraries like **Retrofit**, **EventBus** & **ButterKnife**."
+summary = "Several popular libraries were adopted in this application, such as **Glide v3** to load images from local storage and also **Permissions Dispatcher** to handle run-time permission checking."
 
 # Optional image to display on homepage.
-image_preview = "my_weather.png"
+image_preview = "pic-me.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/kevinyu0506/WeatherApp"
+external_link = "https://github.com/kevinyu0506/GalleryApp"
 
 # Does the project detail page use math formatting?
 math = false
