@@ -1,5 +1,5 @@
 +++
-title = "A photo edit application allows user to paint on the picture easily"
+title = "A photo painting application enables simple painting on pictures"
 date = 2018-03-15T19:24:05+08:00
 draft = false
 

@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Android Development",
-    "Deep Learning",
     "Data Structure & Algorithm",
+    "Deep Learning",
     "Business Model Innovation",
     "New techs"
   ]
