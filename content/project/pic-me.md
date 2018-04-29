@@ -11,7 +11,7 @@ tags = ["android-application"]
 summary = "Several popular libraries were adopted in this application, such as **Glide v3** to load images from local storage and also **Permissions Dispatcher** to handle run-time permission checking."
 
 # Optional image to display on homepage.
-image_preview = "pic-me.png"
+image_preview = "pic_me.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/kevinyu0506/GalleryApp"
