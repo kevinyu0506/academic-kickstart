@@ -8,7 +8,7 @@ draft = false
 tags = ["android-application"]
 
 # Project summary to display on homepage.
-summary = "Several popular libraries such as **Glide v3** to load images from local storage and also **Permissions Dispatcher** to handle run-time permission checking were adopted in this application."
+summary = "Libraries such as **Glide v3** and **Permissions Dispatcher** were used to load images from local storage and also to handle run-time permission checking."
 
 # Optional image to display on homepage.
 image_preview = "pic_me.png"
