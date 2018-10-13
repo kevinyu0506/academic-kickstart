@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -62,7 +62,7 @@ defaultContentLanguageInSubdir = false
   email = "kevinyu05062006@gmail.com"
   address = "Jockey Club Hall 1D01L, HKUST, 3 Tong Yin Lane, Tseung Kwan O, New Territories, Hong Kong"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+852 6746 7450"
+  phone = "(+886)932-191-852"
   # skype = "echo123"
   # telegram = ""
 
@@ -254,19 +254,14 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "CV"
-  url = "https://drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
-  weight = 8
-
-[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Competitions"
   url = "#talks"
-  weight = 4
+  weight = 3
 
 #[[menu.main]]
 #  name = "Posts"
@@ -287,6 +282,11 @@ defaultContentLanguageInSubdir = false
 #  name = "Publications"
 #  url = "#publications_selected"
 #  weight = 7
+
+[[menu.main]]
+  name = "CV"
+  url = "https://drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
+  weight = 8
 
 # Taxonomies.
 [taxonomies]
