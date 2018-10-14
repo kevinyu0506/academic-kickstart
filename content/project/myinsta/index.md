@@ -30,6 +30,6 @@ highlight = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point = "Center"
 
 +++
