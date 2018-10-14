@@ -58,8 +58,6 @@ date_format = "January 2006"
   date_end = "2018-01-12"
   description = """
   ** NCCU MIS 2014 Academic Year Graduation Project "FIRST PLACE" **
-  
-  * An Android developer intern in a startup company founded by an EMBA senior based on our graduation project prototype "Earthquake Early-Warning Application - H.E.R.O."
 
   * Used Trello and GitHub to track development status and follow the weekly development schedule by using scrum methodology
 
