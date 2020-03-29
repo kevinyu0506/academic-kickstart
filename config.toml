@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -51,11 +51,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Chun-Ting (Kevin) Yu"
-  role = "Management Information Systems"
+  role = "Information Management"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "National Chengchi University", url = "http://www.nccu.edu.tw/" }, { name = "The Hong Kong University of Science and Technology", url = "http://www.ust.hk/" } ]
+  organizations = [ { name = "National Taiwan University", url = "http://www.management.ntu.edu.tw/IM" }, { name = "The Hong Kong University of Science and Technology", url = "http://www.ust.hk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

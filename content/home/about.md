@@ -19,20 +19,25 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BSc in Management Information Systems"
+  course = "MSc, Information Management"
+  institution = "National Taiwan University (NTU)"
+  year = 2022
+
+[[education.courses]]
+  course = "BSc, Management Information Systems"
   institution = "National Chengchi University (NCCU)"
   year = 2018
 
 [[education.courses]]
-  course = "Exchange Student in Business School"
+  course = "Spring Inbound Exchange Program"
   institution = "The Hong Kong University of Science and Technology (HKUST)"
   year = 2018
  
 +++
 
-# Biography
+# About Me
 
-Throughout my academic years at National Chengchi University, I’ve participated in three different internships all related to the mobile application industry. I’m passionate about developing any interesting app that users might like, the thought that my app might actually influence people gives me the motivation to improve the skills I’ve possessed.
+Throughout my academic years at National Chengchi University, I’ve participated in several different internships all related to the mobile application industry. I’m passionate about developing any interesting app that users might like, the thought that my app might actually influence people gives me the motivation to improve the skills I’ve possessed.
 
 For the past year, I’ve been working as an intern in a cross-national start-up that originated in the silicon valley, which aims at creating the largest mobile social platform targeted at mobile gaming. We have now more than 30 million accumulative downloads throughout the world in just 3 years, and my main job is to make sure that every releases’ software quality is on point by writing automation testing scripts to verify it.
 
