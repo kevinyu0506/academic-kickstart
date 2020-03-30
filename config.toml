@@ -6,7 +6,7 @@
 baseurl = "https://kevinyu0506.github.io/"
 
 # Title of your site
-title = "Chun-Ting (Kevin) Yu"
+title = "Kevin Yu"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Chun-Ting (Kevin) Yu"
-  role = "Information Management"
+  role = "MS in Information Management"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -215,11 +215,6 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "file-pdf"
-    icon_pack = "fas"
-    link = "//drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
-
-  [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
     link = "//www.linkedin.com/in/kevinyu0506"
@@ -230,14 +225,19 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/kevinyu0506"
 
   [[params.social]]
-    icon = "facebook"
+    icon = "medium"
     icon_pack = "fab"
-    link = "//www.facebook.com/kevinyu0506"
+    link = "//medium.com/@kevinyu_95987"
 
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
     link = "mailto:kevinyu05062006@gmail.com"
+
+  [[params.social]]
+  icon = "file-pdf"
+  icon_pack = "fas"
+  link = "//drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
 
 
 # Navigation Links

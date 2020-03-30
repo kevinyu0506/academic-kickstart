@@ -27,12 +27,11 @@ date_format = "January 2006"
   date_start = "2018-09-10"
   date_end = ""
   description = """
-  ** Google Play “Best of 2017 App’s” Award **
-  
   * Define test strategy, creating and executing test plans, test scenarios, and test cases
 
   * Develop/maintain automated test script for web application and mobile apps
   """
+# ** Google Play “Best of 2017 App’s” Award **  
 
 [[experience]]
   title = "SUMMER INTERN / ANDROID DEVELOPER"
@@ -42,12 +41,11 @@ date_format = "January 2006"
   date_start = "2018-07-02"
   date_end = "2018-09-10"
   description = """
-  ** Google Play “2018 Best Social Impact Award” Nominee **
-  
   * Worked with cross functional team and develop new features for “SleepTown”
 
   * Collaborate with a senior Android Developer to maintain and improve “Forest”
   """
+ # ** Google Play “2018 Best Social Impact Award” Nominee ** 
 
 [[experience]]
   title = "INTERN / ANDROID DEVELOPER"
@@ -57,11 +55,10 @@ date_format = "January 2006"
   date_start = "2017-07-02"
   date_end = "2018-01-12"
   description = """
-  ** NCCU MIS 2014 Academic Year Graduation Project "FIRST PLACE" **
-
   * Used Trello and GitHub to track development status and follow the weekly development schedule by using scrum methodology
 
   * Keep maintaining and completing the fully functional version of H.E.R.O and finally launch the product on Google Play in October 2017
   """
+# ** NCCU MIS 2014 Academic Year Graduation Project "FIRST PLACE" **
 
 +++
