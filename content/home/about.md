@@ -34,11 +34,11 @@ weight = 5
 #  year = 2018
 +++
 
-# About Me
+# ***About Me***
 
 Throughout my academic years at **<a href="http://www.nccu.edu.tw/?locale=en">National Chengchi University (NCCU)</a>**, I’ve participated in several internships all related to **Mobile Application Industry**. I’m passionate about developing any interesting app that users might like, the thought that my app might actually influence people gives me the motivation to keep improving the skills I’ve possessed.
 
-For the past year, I’ve been working as a **SQA intern** in a cross-national start-up **<a href="https://omlet.gg/">Mobisocial Inc.**</a> that originated in **<a href="https://mobisocial.stanford.edu/">Stanford University</a>**. Aims at creating the largest **Mobile Gaming Social Platform**, and so far we have now more than 30 million accumulative downloads throughout the world in just 3 years.
+For the past year, I’ve been working as a **Software QA Engineering intern** in a cross-national start-up **<a href="https://omlet.gg/">MobiSocial Inc.**</a> that originated in **<a href="https://mobisocial.stanford.edu/">Stanford University</a>**. Our main goal is to make **<a href="https://omlet.gg/">Omlet Arcade**</a> the largest **Mobile Gaming Social Platform**.
 
 Currently, I'm enrolled in a master program for **Information Management** at **<a href="http://www.management.ntu.edu.tw/IM">National Taiwan Univeristy (NTU)**</a> and expected to receive my MS Degree around 2022.
 

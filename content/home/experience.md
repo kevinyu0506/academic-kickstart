@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "***Experience***"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,44 +20,50 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "INTERN / SOFTWARE QA ENGINEER"
-  company = "OMLET INC."
+  title = "*INTERN / SOFTWARE QA ENGINEER*"
+  company = "***MobiSocial Inc.***"
   company_url = "http://www.omlet.me/"
   location = " Taipei City, Taiwan"
   date_start = "2018-09-10"
   date_end = ""
   description = """
-  * Define test strategy, creating and executing test plans, test scenarios, and test cases
+  1. *Define test strategy, creating and executing test plans, test scenarios, and test cases*
 
-  * Develop/maintain automated test script for web application and mobile apps
+  2. *Develop/maintain automated test script for web application and mobile apps*
+  
+  ***Google Play : <a href="https://play.google.com/store/apps/details?id=mobisocial.arcade">	Omlet Arcade - Screen Recorder, Live Stream Games</a>***
   """
 # ** Google Play “Best of 2017 App’s” Award **  
 
 [[experience]]
-  title = "SUMMER INTERN / ANDROID DEVELOPER"
-  company = "SEEKRTECH INC."
+  title = "*SUMMER INTERN / ANDROID DEVELOPER*"
+  company = "***Seekrtech Inc.***"
   company_url = "https://seekrtech.com/"
   location = " Taichung City, Taiwan"
   date_start = "2018-07-02"
   date_end = "2018-09-10"
   description = """
-  * Worked with cross functional team and develop new features for “SleepTown”
+  1. *Worked with cross functional team and develop new features for “SleepTown”*
 
-  * Collaborate with a senior Android Developer to maintain and improve “Forest”
+  2. *Collaborate with a senior Android Developer to maintain and improve “Forest”*
+
+  ***Google Play : <a href="https://play.google.com/store/apps/details?id=seekrtech.sleep">SleepTown</a>***
   """
  # ** Google Play “2018 Best Social Impact Award” Nominee ** 
 
 [[experience]]
-  title = "INTERN / ANDROID DEVELOPER"
-  company = "EVERTIPHI INC."
+  title = "*INTERN / ANDROID DEVELOPER*"
+  company = "***Evertiphi Inc.***"
   company_url = "http://www.evertiphi.com/"
   location = " Taipei City, Taiwan"
   date_start = "2017-07-02"
   date_end = "2018-01-12"
   description = """
-  * Used Trello and GitHub to track development status and follow the weekly development schedule by using scrum methodology
+  1. *Used Trello and GitHub to track development status and follow the weekly development schedule by using scrum methodology*
 
-  * Keep maintaining and completing the fully functional version of H.E.R.O and finally launch the product on Google Play in October 2017
+  2. *Keep maintaining and completing the fully functional version of H.E.R.O and finally launch the product on Google Play in October 2017*
+
+  ***Google Play : <a href="https://play.google.com/store/apps/details?id=com.evertiphi.herov2.beta">HERO-EEW - Fast Earthquake Alert </a>***
   """
 # ** NCCU MIS 2014 Academic Year Graduation Project "FIRST PLACE" **
 
