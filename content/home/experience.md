@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "*INTERN / SOFTWARE QA ENGINEER*"
+  title = "*Intern / Software QA Engineer*"
   company = "***MobiSocial Inc.***"
   company_url = "http://www.omlet.me/"
   location = " Taipei City, Taiwan"
@@ -36,7 +36,7 @@ date_format = "January 2006"
 # ** Google Play “Best of 2017 App’s” Award **  
 
 [[experience]]
-  title = "*SUMMER INTERN / ANDROID DEVELOPER*"
+  title = "*Summer Intern / Software Engineer (Android)*"
   company = "***Seekrtech Inc.***"
   company_url = "https://seekrtech.com/"
   location = " Taichung City, Taiwan"
@@ -52,7 +52,7 @@ date_format = "January 2006"
  # ** Google Play “2018 Best Social Impact Award” Nominee ** 
 
 [[experience]]
-  title = "*INTERN / ANDROID DEVELOPER*"
+  title = "*Intern / Software Engineer (Android)*"
   company = "***Evertiphi Inc.***"
   company_url = "http://www.evertiphi.com/"
   location = " Taipei City, Taiwan"
