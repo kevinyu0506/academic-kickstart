@@ -1,14 +1,16 @@
 +++
-title = "Earthquake Early Warning application: A sensor-based Android Application"
+title = "A sensor-based Android App for Earthquake Early Warning"
 date = 2018-01-10T23:12:06+08:00
 draft = false
+
+# Earthquake Early Warning app: A sensor-based Android App
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["android-application"]
 
 # Project summary to display on homepage.
-summary = "By combing the concept of IoT and Crowdsourcing, we developed a sensor-based mobile application which turns the users' phone into an independent seismic sensor."
+summary = "`GRADUATION PROJECT:` Combing the concept of IoT and Crowdsourcing, we developed an application turns the crowds' phone into a seismic sensor."
 
 # Optional image to display on homepage.
 image_preview = "HERO1.png"

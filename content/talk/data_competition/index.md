@@ -1,7 +1,7 @@
 +++
 title = "2017 NCCU Open Data Competition - Final Top 10 Teams"
 date = 2017-05-13T09:00:00+08:00  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

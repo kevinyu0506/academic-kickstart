@@ -40,7 +40,7 @@ tags = []
 url_pdf = "//drive.google.com/open?id=1LmCDoCNXom-vx4-I1POThp-aYznQZRor"
 url_slides = "//drive.google.com/open?id=1Ffu11etQlZvWn6IF9zABXvwGPJOai8H9"
 url_video = ""
-url_code = "https://github.com/kevinyu0506/HERO-Android.v2"
+url_code = ""
 
 # Does the content use math formatting?
 math = false

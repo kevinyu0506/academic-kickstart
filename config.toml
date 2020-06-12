@@ -258,15 +258,15 @@ defaultContentLanguageInSubdir = false
   url = "#experience"
   weight = 2
 
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 3
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 3
 
-# [[menu.main]]
-#   name = "Competitions"
-#   url = "#talks"
-#   weight = 4
+ [[menu.main]]
+  name = "Competitions"
+  url = "#talks"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"

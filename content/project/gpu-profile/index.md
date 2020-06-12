@@ -1,20 +1,20 @@
 +++
-title = "A simple weather forecast application"
-date = 2018-01-05T19:31:39+08:00
+title = "Android's GPU profiling script"
+date = 2018-01-01T15:42:43+08:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["android-application"]
+tags = ["Other"]
 
 # Project summary to display on homepage.
-summary = "This is a weather forecast app powered by `DarkSky API`, and also some libraries such as `Retrofit`, `EventBus` & `ButterKnife`." 
+summary = "A simple `adb` shell script captures Android's GPU rendering status during swipe action."
 
 # Optional image to display on homepage.
-image_preview = "my_weather.png"
+# image_preview = "quant168.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/kevinyu0506/WeatherApp"
+external_link = "https://github.com/kevinyu0506/ResearchGate-Crawler"
 
 # Does the project detail page use math formatting?
 math = false
@@ -30,6 +30,6 @@ highlight = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "TopLeft"
 
 +++

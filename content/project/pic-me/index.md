@@ -1,5 +1,5 @@
 +++
-title = "A photo painting application enables simple painting on pictures"
+title = "A photo editor app allows painting on images"
 date = 2018-03-15T19:24:05+08:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = ["android-application"]
 
 # Project summary to display on homepage.
-summary = "Libraries such as **Glide v3** and **Permissions Dispatcher** were used to load images from local storage and also to handle run-time permission checking."
+summary = "Libraries such as `Glide` and `Permissions Dispatcher` were used to load images from local storage and also to handle run-time permission checking."
 
 # Optional image to display on homepage.
 image_preview = "pic_me.png"
@@ -20,7 +20,7 @@ external_link = "https://github.com/kevinyu0506/GalleryApp"
 math = false
 
 # Does the project detail page use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

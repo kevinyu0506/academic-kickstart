@@ -1,7 +1,7 @@
 +++
 title = "Earthquake Early Warning application: Beta version with a new algorithm and user interface"
 date = 2018-04-20T00:47:39+08:00
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -14,7 +14,7 @@ summary = "A newly-tuned **epicenter converging algorithm** was adapted to this 
 image_preview = "HERO2.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/kevinyu0506/HERO-Android.v2"
+external_link = "https://play.google.com/store/apps/details?id=com.evertiphi.herov2.beta&hl=en"
 
 # Does the project detail page use math formatting?
 math = false
