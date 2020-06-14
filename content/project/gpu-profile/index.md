@@ -14,7 +14,7 @@ summary = "A simple `adb` shell script captures Android's GPU rendering status d
 # image_preview = "quant168.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/kevinyu0506/ResearchGate-Crawler"
+external_link = "https://github.com/kevinyu0506/Android-GPU-Profiling-script"
 
 # Does the project detail page use math formatting?
 math = false
