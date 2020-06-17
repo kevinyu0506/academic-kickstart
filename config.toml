@@ -237,7 +237,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
   icon = "file-pdf"
   icon_pack = "fas"
-  link = "//drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
+  link = "//drive.google.com/file/d/1Z-XA6DDlLvwI5WA-GLxoV_T_tMockKcH/view?usp=sharing"
 
 
 # Navigation Links
@@ -290,7 +290,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "https://drive.google.com/open?id=1k7yDrnI18QGsFinP9jrJwLpFxsDAd50C"
+  url = "https://drive.google.com/file/d/1Z-XA6DDlLvwI5WA-GLxoV_T_tMockKcH/view?usp=sharing"
   weight = 8
 
 # Taxonomies.
